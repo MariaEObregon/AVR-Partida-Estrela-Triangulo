@@ -1,7 +1,7 @@
 # ⭐🔺 Partida Estrela Triângulo com AVR e Arduino
 Este projeto consiste no desenvolvimento de um circuito com programação em AVR para controlar uma aplicação de um dispositivo de comando para partida Estrela-Triângulo. O funcionamento é o seguinte:
 
-Quanto S1 é pressionado, ocorre o fechamento do comando em estrela(contatores K1 e K2), e após 5 segundo, o fechamento do comando elétrico passa a ser triângulo(contatores K1 e K3).
+Quando S1 é pressionado, ocorre o fechamento do comando em estrela(contatores K1 e K2), e após 5 segundo, o fechamento do comando elétrico passa a ser triângulo(contatores K1 e K3).
 A qualquer momento, quando apertato o botão S0, o circuito é interrompido.
 
 🛠 Tecnologias e Componentes Utilizados:
