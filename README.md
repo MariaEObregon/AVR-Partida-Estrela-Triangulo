@@ -23,8 +23,8 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 | Função  | Dispositivo   | Descrição                         | Pino (Arduino Uno) | Pino (ATmega328P) | PORT |
 | :------ | :------------ | :-------------------------------- | :----------------- | :-----------------|:-----|
-| Entrada | Botão S0      | Desligar sistema de comando       | 9                  | 15                | PB1  |
-| Entrada | Botão S1      | Ligar sistema de comando          | 10                 | 16                | PB2  |
+| Entrada | Botão S0      | Desliga sistema de comando       | 9                  | 15                | PB1  |
+| Entrada | Botão S1      | Liga sistema de comando          | 10                 | 16                | PB2  |
 | Saída   | K3            | Contator K3                       | 11                 | 17                | PB3  |
 | Saída   | K2            | Contator K2                       | 12                 | 18                | PB4  |
 | Saída   | K1            | Contator K1                       | 13                 | 19                | PB5  |
